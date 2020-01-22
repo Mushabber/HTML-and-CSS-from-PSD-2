@@ -1,0 +1,46 @@
+
+@media(max-width: 767px){
+	.sold_out h3{
+		font-size: 30px;
+	}
+	.dont_worry p{
+		font-size: 22px;
+		padding: 0 5px;
+	}
+	.choice p{
+		font-size: 40px;
+		padding: 0 5px;
+	}
+	.propartic_left{
+		width: 100%;
+	}
+	.propartic_middel{
+		width: 100%;
+	}
+	.propartic_right{
+		width: 100%;
+		padding-top: 10px;
+	}
+	.footer_left{
+		width: 100%;
+	}
+	.footer_middel{
+		width: 100%;
+		padding: 10px 5px;
+	}
+	.footer_right{
+		width: 100%;
+	}
+}
+@media(min-width: 768px) and (max-width: 992px){
+	.propartic_left{
+		width: 45%;
+	}
+	.propartic_middel{
+		width: 45%;
+	}
+	.propartic_right{
+		width: 45%;
+		padding-top: 10px;
+	}
+}
